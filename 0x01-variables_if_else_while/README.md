@@ -38,9 +38,6 @@ File 9-print_comb.c is a C program that prints all possible combinations of sing
 
 
 
-File 10-print_comb2.c is a C program that prints the numbers from 00 to 99.
-
-
 
 File 100-print_comb3.c is a program that prints all possible different combinations of two digits.
 
