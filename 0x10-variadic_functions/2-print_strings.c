@@ -2,10 +2,10 @@
 
 /**
  * print_strings - prints strings.
- * @separator: strings to be printed between the strigs.
- * @n: number of strings passed tothe function.
+ * @separator: string to be printed between the strings.
+ * @n: number of strings passed to the function.
  *
- * Retuen: no return.
+ * Return: no return.
  */
 void print_strings(const char *separator, const unsigned int n, ...)
 {
@@ -22,7 +22,7 @@ void print_strings(const char *separator, const unsigned int n, ...)
 		if (str)
 			printf("%s", str);
 		else
-			printf("(nil)";
+			printf("(nil)");
 
 		if (i < n - 1)
 			if (separator)
